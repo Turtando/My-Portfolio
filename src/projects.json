@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Character Combat",
+      "image":
+        "images/charactercombat.jpg",
+      "deployed": "https://turtando.github.io/Character-Combat/",
+      "repo": "https://turtando.github.io/Character-Combat/"
+    },
+    {
+      "id": 2,
+      "name": "Movie Mentor",
+      "image":
+        "images/moviementor.jpg",
+      "deployed": "https://github.com/Turtando/Movie-Mentor/",
+      "repo": "https://my-movie-mentor.herokuapp.com/"
+    },
+    {
+      "id": 3,
+      "name": "Weather Dashboard",
+      "image":
+        "images/weatherdashboard.jpg",
+      "deployed": "https://turtando.github.io/Weather-Dashboard/",
+      "repo": "https://turtando.github.io/Weather-Dashboard/"
+    },
+    {
+      "id": 4,
+      "name": "Workday Scheduler",
+      "image":
+        "images/workdayplanner.jpg",
+      "deployed": "https://github.com/Turtando/Workday-Scheduler",
+      "repo": "https://www.youtube.com/watch?v=jCaSo4Kc2Zk"
+    },
+    {
+      "id": 5,
+      "name": "Employee Tracker",
+      "image":
+        "images/employeetracker.jpg",
+      "deployed": "https://github.com/Turtando/Employee-Tracker",
+      "repo": "https://www.youtube.com/watch?v=jCaSo4Kc2Zk"
+    },
+    {
+      "id": 6,
+      "name": "Coding Quiz",
+      "image": 
+        "images/codequiz.jpg",
+      "deployed": "https://turtando.github.io/Coding-Quiz/",
+      "repo": "https://turtando.github.io/Coding-Quiz/"
+    }
+  ]
+  
