@@ -47,7 +47,7 @@ export default function About() {
                     media outlet developer.
                   </p>
                   <p>
-                    <a href="https://drive.google.com/file/d/1Exizoyv4bQl9VS0R1OJYU0EAZwrvbE9f/view?usp=sharing"><strong>My Resume</strong></a>
+                    <a href="https://drive.google.com/file/d/1nc1HZ7TDDURIprFmPIOn5seuORzH2fDF/view?usp=sharing"><strong>My Resume</strong></a>
                   </p>
                 </div>
               </div>
