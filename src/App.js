@@ -5,12 +5,13 @@ import Contact from "../src/components/Contact/contact";
 import Footer from "../src/components/Footer/footer";
 import Navbar from "../src/components/Navbar/navbar";
 import Portfolio from "../src/components/Portfolio/portfolio";
+import Wrapper from "../src/components/Wrapper";
 
 function App() {
   return (
     <Router>
-      <>
-        <Navbar />
+      <Navbar />
+      <Wrapper>
         <Switch>
           <Route exact path="/" component={About}>
             <About />
@@ -22,10 +23,10 @@ function App() {
             <Contact />
           </Route>
         </Switch>
-        <Footer />
-      </>
+      </Wrapper>
+      <Footer />
     </Router>
-  )
+  );
 }
 
 export default App;
