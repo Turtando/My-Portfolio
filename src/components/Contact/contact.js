@@ -24,7 +24,7 @@ export default function Contact() {
                 <div class="col mt-4">
                   <a
                     class="text-dark"
-                    href="https://www.linkedin.com/in/christopher-turton-a0002670/"
+                    href="https://www.linkedin.com/in/christopher-turton/"
                     target="_blank"
                   >
                     <i
