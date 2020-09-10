@@ -9,10 +9,10 @@ import Wrapper from "../src/components/Wrapper/wrapper";
 
 function App() {
   return (
-    <Wrapper>
+
     <Router>
       <Navbar />
-     
+      <Wrapper>
         <Switch>
           <Route exact path="/" component={About}>
             <About />
@@ -24,10 +24,10 @@ function App() {
             <Contact />
           </Route>
         </Switch>
-     
+        </Wrapper>
       <Footer />
     </Router>
-    </Wrapper>
+
   );
 }
 
