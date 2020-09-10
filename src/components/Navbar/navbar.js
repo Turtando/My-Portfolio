@@ -8,7 +8,7 @@ export default function Navbar() {
   return (
     <header className="header">
       <nav className="navbar navbar-expand-lg navbar-light bg-dark">
-        <div className="container">
+        <section className="container">
           <Link className="navbar-brand mb-0 h1 p-1" to="/">
             <h2 className="text-light border-0 ml-5">Chris Turton</h2>
           </Link>
@@ -59,7 +59,7 @@ export default function Navbar() {
               </li>
             </ul>
           </div>
-        </div>
+        </section>
       </nav>
     </header>
   );

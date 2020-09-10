@@ -4,8 +4,8 @@ import Project from "../Project/project";
 
 export default function Portfolio(props) {
   return (
-    
-      <figure className=" container card col-md-12 p-4">
+    // <div className="container">
+      <figure className="card col-md-12 p-4">
         <section className="row cardRow">
           {projects.map((project) => (
             <Project
@@ -18,6 +18,6 @@ export default function Portfolio(props) {
           ))}
         </section>
       </figure>
-   
+    // </div>
   );
 }

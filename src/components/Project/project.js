@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Project(props) {
   return (
-    <div className="container">
+    // <div className="container">
       <div className="container-fluid">
         <section className="row">
           <section className="col-sm-12">
@@ -32,6 +32,6 @@ export default function Project(props) {
           </section>
         </section>
       </div>
-    </div>
+    // </div>
   );
 }
