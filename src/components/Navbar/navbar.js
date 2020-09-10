@@ -6,11 +6,10 @@ export default function Navbar() {
   const location = useLocation();
 
   return (
-    <header className="header">
-      <nav className="navbar navbar-expand-lg navbar-light bg-dark">
-        <div className="container">
+    <header className="header-fixed-top">
+      <nav className="navbar navbar-expand-lg bg-dark">
           <Link className="navbar-brand mb-0 h1 p-1" to="/">
-            <h2 className="text-light border-0 ml-5">Chris Turton</h2>
+            <h2 className="border-0 ml-5">Chris Turton</h2>
           </Link>
 
           <button
@@ -59,8 +58,7 @@ export default function Navbar() {
               </li>
             </ul>
           </div>
-        </div>
       </nav>
-    </header>
+   </header>
   );
 }

@@ -2,18 +2,18 @@ import React from "react";
 
 export default function Contact() {
   return (
-    // <div className="container">
+    <div className="container">
       <div className="cointainer-fluid p-5">
         <div className="row">
           <div class="row mx-auto">
-            <div className="card">
+           
               <div className="card-title border-bottom ml-3 mb-0">
                 <h2 className="mt-3 ml textLightBlue">Contact Me!</h2>
-              </div>
+            
               <div className="card-body mb-5 pb-4">
                 <div class="col mt-4">
                   <a
-                    class="text-dark"
+                    class="text-light"
                     href="mailto:christopheraturton@gmail.com"
                     target="_blank"
                   >
@@ -23,7 +23,7 @@ export default function Contact() {
                 </div>
                 <div class="col mt-4">
                   <a
-                    class="text-dark"
+                    class="text-light"
                     href="https://www.linkedin.com/in/christopher-turton/"
                     target="_blank"
                   >
@@ -36,7 +36,7 @@ export default function Contact() {
                 </div>
                 <div class="col mt-4">
                   <a
-                    class="text-dark"
+                    class="text-light"
                     href="https://github.com/Turtando"
                     target="_blank"
                   >
@@ -48,6 +48,6 @@ export default function Contact() {
           </div>
         </div>
       </div>
-    // </div>
+   </div>
   );
 }

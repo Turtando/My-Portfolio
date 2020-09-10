@@ -6,6 +6,7 @@ import Footer from "../src/components/Footer/footer";
 import Navbar from "../src/components/Navbar/navbar";
 import Portfolio from "../src/components/Portfolio/portfolio";
 import Wrapper from "../src/components/Wrapper/wrapper";
+import "./App.css"
 
 function App() {
   return (
