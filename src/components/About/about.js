@@ -2,7 +2,7 @@ import React from "react";
 
 export default function About() {
   return (
-    <div className="container">
+    // <div className="container">
       <main class="container-fluid p-5">
         <section class="row">
           <section class="col-sm-8">
@@ -58,6 +58,6 @@ export default function About() {
           </section>
         </section>
       </main>
-    </div>
+    // </div>
   );
 }
