@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <>
+    <div className="container">
       <div className="cointainer-fluid p-5">
         <div className="row">
           <div class="row mx-auto">
@@ -48,6 +48,6 @@ export default function Contact() {
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 }
