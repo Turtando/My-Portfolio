@@ -7,8 +7,8 @@ export default function Navbar() {
 
   return (
     <header className="header">
-      <nav className="navbar navbar-expand-lg navbar-light bg-dark">
-        <section className="container">
+      <nav className="navbar-fixed-top navbar-expand-lg navbar-light bg-dark">
+        <section className="container-fluid">
           <Link className="navbar-brand mb-0 h1 p-1" to="/">
             <h2 className="text-light border-0 ml-5">Chris Turton</h2>
           </Link>
