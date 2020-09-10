@@ -5,11 +5,12 @@ import Contact from "../src/components/Contact/contact";
 import Footer from "../src/components/Footer/footer";
 import Navbar from "../src/components/Navbar/navbar";
 import Portfolio from "../src/components/Portfolio/portfolio";
-import Wrapper from "../src/components/Wrapper";
+import Wrapper from "../src/components/Wrapper/wrapper";
 
 function App() {
   return (
     <Router>
+      <Wrapper>
       <Navbar />
       <Wrapper>
         <Switch>
@@ -25,6 +26,7 @@ function App() {
         </Switch>
       </Wrapper>
       <Footer />
+      </Wrapper>
     </Router>
   );
 }
