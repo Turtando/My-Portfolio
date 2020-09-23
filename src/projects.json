@@ -5,47 +5,62 @@
       "image":
         "images/charactercombat.jpg",
       "deployed": "https://turtando.github.io/Character-Combat/",
-      "repo": "https://turtando.github.io/Character-Combat/"
+      "repo": "https://github.com/Turtando/Character-Combat",
+      "description": "Character combat is a game that is designed to give the user the unique experience of battling any type of superhero or villain. This application uses HTML5, Bulma CSS Framework, Javascript and jQuery."
     },
     {
       "id": 2,
       "name": "Movie Mentor",
       "image":
         "images/moviementor.jpg",
-      "deployed": "https://github.com/Turtando/Movie-Mentor/",
-      "repo": "https://my-movie-mentor.herokuapp.com/"
+      "deployed": "https://my-movie-mentor.herokuapp.com/",
+      "repo": "https://github.com/Turtando/Movie-Mentor/",
+      "description": "Movie Mentor is a web application designed to help suggest TV Show/Movie titles to users based off of their personal preference and title selections. This application uses HTML5,  Javascript, HandlebarsJS Framework, jQuery and Node.js "
     },
     {
       "id": 3,
+      "name": "CELP",
+      "image":
+        "images/celp.jpg",
+      "deployed": "https://celp-rate-a-cop.herokuapp.com/",
+      "repo": "https://github.com/Turtando/CELP",
+      "description": "Rate-A-Cop application designed to track police interaction in the Greater Philadelphia area. This application uses HTML5, Reactstrap CSS Framework, Javascript, Node.js, React.js and MongoDB"
+    },
+    {
+      "id": 4,
       "name": "Weather Dashboard",
       "image":
         "images/weatherdashboard.jpg",
       "deployed": "https://turtando.github.io/Weather-Dashboard/",
-      "repo": "https://turtando.github.io/Weather-Dashboard/"
-    },
-    {
-      "id": 4,
-      "name": "Workday Scheduler",
-      "image":
-        "images/workdayplanner.jpg",
-      "deployed": "https://github.com/Turtando/Workday-Scheduler",
-      "repo": "https://turtando.github.io/Workday-Scheduler/"
+      "repo": "https://github.com/Turtando/Weather-Dashboard",
+      "description": "An interactive and functioning live weather dashboard. This application uses HTML5, Bootstrap CSS Framework, Javascript, and jQuery."
     },
     {
       "id": 5,
-      "name": "Employee Tracker",
+      "name": "Workday Scheduler",
       "image":
-        "images/employeetracker.jpg",
-      "deployed": "https://github.com/Turtando/Employee-Tracker",
-      "repo": "https://www.youtube.com/watch?v=jCaSo4Kc2Zk"
+        "images/workdayplanner.jpg",
+      "deployed": "https://turtando.github.io/Workday-Scheduler/",
+      "repo": "https://github.com/Turtando/Workday-Scheduler",
+      "description": "A simple calendar planning schedule that allows the user to both log and record their own notes for each hour of the 9-5 workday. This application uses concepts of HTML5, Bootstrap CSS Framework, Javascript, jQuery and Moment.js."
     },
     {
       "id": 6,
-      "name": "Coding Quiz",
+      "name": "Employee Tracker",
+      "image":
+        "images/employeetracker.jpg",
+      "deployed": "https://www.youtube.com/watch?v=jCaSo4Kc2Zk",
+      "repo": "https://github.com/Turtando/Employee-Tracker",
+      "description": "Employee tracker is an app that uses the previously mentioned languages. This is a CLI script for managing and tracking a company's employees using node, inquirer, and MySQL. "
+    },
+    {
+      "id": 7,
+      "name": "Workout Tracker",
       "image": 
-        "images/codequiz.jpg",
-      "deployed": "https://turtando.github.io/Coding-Quiz/",
-      "repo": "https://turtando.github.io/Coding-Quiz/"
+        "images/workouttracker.jpg",
+      "deployed": "https://fitness-tracker-extrordinare.herokuapp.com/",
+      "repo": "https://github.com/Turtando/Workout-Tracker",
+      "description": "This application will help you track all of your exercises throughout the week. Whether it be resistance training or cardiovascular training- you will be able to record any event as well as add to existing workouts. This application uses HTML5, Bootstrap CSS Framework, Javascript, Node.js, and MongoDB"
     }
   ]
   
