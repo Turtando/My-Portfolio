@@ -39,6 +39,9 @@ Christopher Turton
 
 
 # Test
+![](/public/images/about.jpg)
+![](/public/images/contact.jpg)
+![](/public/images/portfolio.jpg)
 
 
 
